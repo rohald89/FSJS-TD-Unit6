@@ -3,7 +3,7 @@
         {
             "id": "0",
             "project_name": "A Random Quote Generator",
-            "description": "",
+            "description": "test",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -11,11 +11,11 @@
             ],
             "live_link": "https://rohald89.github.io/FSJS-TD-Unit1/",
             "github_link": "https://github.com/rohald89/FSJS-TD-Unit1",
+            "thumbnail": "/static/images/project1-thumb.jpg",
             "image_urls": [
-                "../images/project1-thumb",
-                "../images/project1-1",
-                "../images/project1-2",
-                "../images/project1-3"
+                "/static/images/project1-1.jpg",
+                "/static/images/project1-2.jpg",
+                "/static/images/project1-3.jpg"
             ]
         },
         {
@@ -29,11 +29,11 @@
             ],
             "live_link": "https://rohald89.github.io/FSJS-TD-Unit2/",
             "github_link": "https://github.com/rohald89/FSJS-TD-Unit2",
+            "thumbnail": "/static/images/project2-thumb.jpg",
             "image_urls": [
-                "../images/project2-thumb",
-                "../images/project2-1",
-                "../images/project2-2",
-                "../images/project2-3"
+                "/static/images/project2-1.jpg",
+                "/static/images/project2-2.jpg",
+                "/static/images/project2-3.jpg"
             ]
         },
         {
@@ -47,11 +47,11 @@
             ],
             "live_link": "https://rohald89.github.io/FSJS-TD-Unit3/",
             "github_link": "https://github.com/rohald89/FSJS-TD-Unit3",
+            "thumbnail": "/static/images/project3-thumb.jpg",
             "image_urls": [
-                "../images/project3-thumb",
-                "../images/project3-1",
-                "../images/project3-2",
-                "../images/project3-3"
+                "/static/images/project3-1.jpg",
+                "/static/images/project3-2.jpg",
+                "/static/images/project3-3.jpg"
             ]
         },
         {
@@ -65,10 +65,10 @@
             ],
             "live_link": "https://rohald89.github.io/FSJS-TD-Unit4/",
             "github_link": "https://github.com/rohald89/FSJS-TD-Unit4",
+            "thumbnail": "/static/images/project4-thumb.jpg",
             "image_urls": [
-                "../images/project4-thumb",
-                "../images/project4-1",
-                "../images/project4-2"
+                "/static/images/project4-1.jpg",
+                "/static/images/project4-2.jpg"
             ]
         },
         {
@@ -82,11 +82,11 @@
             ],
             "live_link": "https://rohald89.github.io/FSJS-TD-Unit5/",
             "github_link": "https://github.com/rohald89/FSJS-TD-Unit5",
+            "thumbnail": "/static/images/project5-thumb.jpg",
             "image_urls": [
-                "../images/project5-thumb",
-                "../images/project5-1",
-                "../images/project5-2",
-                "../images/project5-3"
+                "/static/images/project5-1.jpg",
+                "/static/images/project5-2.jpg",
+                "/static/images/project5-3.jpg"
             ]
         }
     ]
