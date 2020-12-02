@@ -1,6 +1,6 @@
 // create status 404 error when non existing path is requested
 const notFound = ((req, res, next) => {
-    const err = new Error('This page can not be found');
+    const err = new Error('This page can not be found :(');
     err.status = 404;
     next(err);
 });

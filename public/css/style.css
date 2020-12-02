@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
 }
 
   h5{
@@ -31,11 +31,19 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: rgb(128, 128, 128);
+  border-radius: 20px;
+  box-shadow: 0 5px 4px black;
+}
+.button:focus{
+  box-shadow: 0 3px 2px black;
+}
+.button:hover{
+  background-color: rgb(71, 71, 71);
 }
 
-.button:hover{
-  background-color: #111;
+.button + .button{
+  margin-top: 20px;
 }
 
 a{
@@ -58,7 +66,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #1e1e58;
   color: #fff;
   box-shadow: none !important;
 }
@@ -99,12 +107,17 @@ a:hover{
    text-transform: uppercase;
  }
 
-.portfolio-intro{
+.error{
+  width: 100%;
+}
+.portfolio-intro,
+.error{
   margin: 0;
   padding: 40px 50px 30px;
 }
 
-.portfolio-intro p{
+.portfolio-intro p,
+.error p{
   border-bottom: 1px solid #eaeaea;
   padding-bottom: 40px;
 }
