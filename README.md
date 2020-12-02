@@ -7,8 +7,9 @@ This is my sixth project for the FullStack JavaScript Techdegree. For this proje
 - Using Pug templates and Express to render the different pages
 
 ## Additional Features
-- Personalized styling (buttons, font color scheme)
+- Personalized styling (buttons, font, color scheme)
 - Next button to navigate through the projects on the project page
+- Created templates for errors
 - Cleaned up code by adding routes folder and errors.js
 
 ## Technologies Used
