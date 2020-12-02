@@ -8,8 +8,8 @@ This is my sixth project for the FullStack JavaScript Techdegree. For this proje
 
 ## Additional Features
 - Personalized styling (buttons, )
-- Navigation to scroll through projects
-- Cleaned up code by adding routes folder and errorHandling.js
+- Next button to navigate through the projects on the project page
+- Cleaned up code by adding routes folder and errors.js
 
 ## Technologies Used
 - Node.js

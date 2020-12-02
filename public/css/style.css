@@ -86,6 +86,8 @@ a:hover{
   margin: 0;
   padding: 20px;
   border-bottom: 1px solid #eaeaea;
+  display: flex;
+  justify-content: space-around;
 }
 
  .portfolio-breadcrumb a{
