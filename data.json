@@ -3,7 +3,7 @@
         {
             "id": "0",
             "project_name": "A Random Quote Generator",
-            "description": "test",
+            "description": "On this project a random quote will be displayed based on an array of quotes. The user is able to show another quote and the quote will be automatically change after 10 seconds. The background color is randomly generated.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -21,7 +21,7 @@
         {
             "id": "1",
             "project_name": "Data Pagination and Filtering",
-            "description": "",
+            "description": "This student directory displays a group students. Thanks to the search input the user is able to filter students by name. The maximum amount of students displayed on the page is currently set at 9, page buttons are added dynamically based on the number of total students.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -39,7 +39,7 @@
         {
             "id": "2",
             "project_name": "Interactive Form",
-            "description": "",
+            "description": "This is an interactive form with a lot of different features. It will change the content based on the selections the user has made and validate each input field to make sure everything is correctly filled in before submitting the form. To increase the User Experience tooltips will tell the visitor live updates on the validation.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -57,7 +57,7 @@
         {
             "id": "3",
             "project_name": "OOP Game Show App",
-            "description": "",
+            "description": "For this project I created a game called Phrase Hunter using Object Oriented JavaScript. You have to find out what the hidden phrase is by choosing letters. Find all the letters in the phrase and you win the game, but make 5 wrong guesses and you'll have to surrender to the Light Side.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -74,7 +74,7 @@
         {
             "id": "4",
             "project_name": "Public API Requests",
-            "description": "",
+            "description": "This project will get 12 random employees from an API and render those to the screen. When an employee card is clicked it will open up a modal with additional information. There's a search function available to filter employees by name.",
             "technologies": [
                 "HTML",
                 "CSS",
