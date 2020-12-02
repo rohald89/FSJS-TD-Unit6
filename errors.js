@@ -9,6 +9,7 @@ const notFound = ((req, res, next) => {
 const error = ((err, req, res, next) => {
     if (err.status === 404) {
         res.render('page-not-found.pug', { err });
+        console.log(`The page you're looking for can't be found, please try again`)
     } else {
         const err = new Error('Uh oh something went wrong!');
         err.status = 500;
